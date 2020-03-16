@@ -5,7 +5,7 @@ Since the dataset is hugh in size, we could not provide them here, instead we pu
 
 The dataset link is: https://pan.baidu.com/s/14IEOUrMRtX5G79Z3NdkZLg password: tg32 
 
-If you use any of the dataset, please cite the following publications: \\
+If you use any of the dataset, please cite the following publications: 
 
 @INPROCEEDINGS{8954323,
 author={L. {Wang} and I. S. M. {Mostafavi} and Y. {Ho} and K. {Yoon}},
@@ -16,6 +16,8 @@ pages={10073-10082},
 doi={10.1109/CVPR.2019.01032},
 ISSN={1063-6919},
 month={June},}
+
+
 
 
 
