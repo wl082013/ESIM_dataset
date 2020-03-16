@@ -3,6 +3,8 @@ Event camera dataset
 This line inlcudes both dataset for Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks and EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning. 
 Since the dataset is hugh in size, we could not provide them here, instead we put them in Baidu drive which is convenient to download.
 
+The dataset link is: https://pan.baidu.com/s/14IEOUrMRtX5G79Z3NdkZLg password: tg32 
+
 If you use any of this code, please cite the following publications:
 @INPROCEEDINGS{8954323,
 author={L. {Wang} and I. S. M. {Mostafavi} and Y. {Ho} and K. {Yoon}},
