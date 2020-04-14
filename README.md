@@ -17,6 +17,13 @@ doi={10.1109/CVPR.2019.01032},
 ISSN={1063-6919},
 month={June},}
 
+@article{wang2020eventsr,
+  title={EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning},
+  author={Wang, Lin and Kim, Tae-Kyun and Yoon, Kuk-Jin},
+  journal={arXiv preprint arXiv:2003.07640},
+  year={2020}
+}
+
 
 
 
