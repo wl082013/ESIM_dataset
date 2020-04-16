@@ -18,7 +18,7 @@ If you use any of the dataset, please cite the following publications:
   year={2019}
 }
 
-@artiinproceedingscle{wang2020eventsr,
+@inproceedings{wang2020eventsr,
   title={EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning},
   author={Wang, Lin and Kim, Tae-Kyun and Yoon, Kuk-Jin},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
